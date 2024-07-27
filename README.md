@@ -1,1 +1,1 @@
-"# All-JS-for-React" 
+I wanna learn React to improve my web development skills even further, so I did this project to understand the concepts of JS that I need for learning React(and don't spending time learning non-specific thing that I don't need in JS)
